@@ -1,6 +1,4 @@
-# open-mint-tcg
-
-Open Mint Trading Card Game (TCG)
+# Open Mint Trading Card Game (TCG)
 
 Just getting started. Seed your ideas and start conversations as [issues](https://github.com/svidgen/open-mint-tcg/issues) for now.
 
