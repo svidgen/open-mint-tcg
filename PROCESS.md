@@ -36,10 +36,11 @@ Each RFC has a `State:` field at the top of its markdown file. The possible stat
 - All RFCs are listed in `rfcs/README.md` with their current state.
 - Each RFC file must have a `State:` field at the top.
 
-## Conformance Tests
+## Tests
 
-- Every "Live" RFC must have corresponding tests in `conformance-tests/`.
-- The package `packages/rfc-test-utils` provides helpers for writing these tests.
+- Every "Live" RFC must have corresponding tests in `packages/conformance-tests` to validate correct implementations.
+- Every RFC should *likely* have specification tests in `packages/spec-tests` to validate the assumptions of the RFC itself.
+- Similarly, the assumptions of the "live" specification itself should be validated with tests.
 
 ## Example RFC Header
 

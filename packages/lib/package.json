@@ -1,0 +1,12 @@
+{
+	"name": "@open-mint-tcg/lib",
+	"type": "module",
+	"version": "0.0.1",
+	"description": "Reference implementations for Open Mint TCG mining, validation, and gameplay rules.",
+	"scripts": {
+		"test": "node --test"
+	},
+	"keywords": ["open-mint-tcg", "lib"],
+	"author": "",
+	"license": "MIT"
+}
