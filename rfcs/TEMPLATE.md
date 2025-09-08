@@ -1,9 +1,12 @@
----
-Title: <RFC Title>
-State: Draft  # (Draft | Accepted | Implemented | Live | Rejected/Withdrawn)
-Author: <your name or handle>
-Created: <YYYY-MM-DD>
----
+## Title
+
+Name the feature/change.
+
+| | |
+| -- | -- |
+| State | Draft (Draft | Accepted | Implemented | Live | Rejected/Withdrawn) |
+| Author | <your name or handle> |
+| Created | <YYYY-MM-DD> |
 
 ## Summary
 

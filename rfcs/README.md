@@ -1,6 +1,6 @@
 # Open Mint TCG RFCs
 
-This directory contains all RFCs (Requests for Comments) for the Open Mint TCG project.
+This directory contains all RFCs (Requests for Comments) for Open Mint TCG.
 
 For the full RFC process and guidelines, see [../PROCESS.md](../PROCESS.md).
 
