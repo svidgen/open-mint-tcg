@@ -14,9 +14,9 @@ The Mining Client is responsible for generating valid cards, validating cards, a
 
 ## Game Engine Server
 
-A stateful server that can be accessed via HTTP(s) to simulate gameplay. The server will be expected to receive game events (player actions, dice rolls, etc.) and report the correct game state. The server should also be capable of validating cards.
+A stateful HTTP(s) service that can validate cards and simulate gameplay. The server will be expected to receive game events (player actions, dice rolls, etc.) and report the correct game state.
 
-The server may also be required to rule on whether an individual player has the rights to play a card at an event "registered" to the server.
+The server *may* also be required to rule on whether an individual player has the rights to play a card at an event "registered" to the server. (TBD)
 
 ***RFC needed.***
 
