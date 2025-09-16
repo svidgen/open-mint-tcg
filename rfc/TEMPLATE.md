@@ -1,13 +1,12 @@
-## Title
-
-Name the feature/change.
+## Title (Give it a name)
 
 | | |
 | -- | -- |
-| State | Draft (Draft, Accepted, Implemented, Live. Rejected/Withdrawn) |
-| Author | <your name or handle> |
-| Created | <YYYY-MM-DD> |
-| Feature Branch | (Assigned for **Approved** RFCs. Removed after **Live**.) |
+| State | Draft, Accepted, Implemented, Live, or Withdrawn |
+| Author | @your-github-handle |
+| Created | YYYY-MM-DD |
+| Branch | [rfc/NNNN](https://github.com/svidgen/open-mint-tcg/tree/rfc/NNNN) |
+| Versioning | Patch, Minor, or Major |
 
 ## Summary
 
@@ -29,15 +28,18 @@ What are the downsides or trade-offs?
 
 What alternatives were considered? Why were they discarded?
 
-## Implementation
-
-1. How should the work ideally be decomposed?
-1. Is there anything unusual we need to know to implement?
-1. Do we need an implementation plan to account for older clients, cards, etc.?
-
 ## Conformance Tests
 
 Describe the tests that will be required for this RFC to be considered "Live".
+
+## Implementation
+
+Nailing this is section down is not strictly required to move an RFC into an **Approved** state. However, enumerating the recommended breakdown of deliverables can help contributors invest their time wisely. If you're unable to create a better breakdown of work, use this one:
+
+1. Update [the spec](./spec/) to align with the RFC.
+2. Add functionality to [the library](packages/lib/)
+3. Updated [conformance tests](./packages/conformance-tests/)
+4. Update the status to **Live** in the feature branch.
 
 ## Open Items
 
