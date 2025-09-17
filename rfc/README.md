@@ -2,7 +2,7 @@
 
 This directory contains all RFCs (Requests for Comments) for Open Mint TCG.
 
-For the full RFC process and guidelines, see [../PROCESS.md](../PROCESS.md).
+For the full RFC process and guidelines, see [the contributing guide](../CONTRIBUTING.md).
 
 ## RFC Index
 

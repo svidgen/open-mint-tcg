@@ -19,6 +19,6 @@ Feel free to contribute by:
 1. Participating in discussions on [issues](https://github.com/svidgen/open-mint-tcg/issues).
 1. Creating [PRs](https://github.com/svidgen/open-mint-tcg/pulls) to implement [**Approved** RFCs](./rfc/README.md).
 1. Commenting on open [PRs](https://github.com/svidgen/open-mint-tcg/pulls).
-1. [*Creating* and *Iterating* on RFCs](./PROCESS.md).
+1. [*Creating* and *Iterating* on RFCs](./CONTRIBUTING.md).
 1. Opening [PRs](https://github.com/svidgen/open-mint-tcg/pulls) to fix typos and bugs or improve repository automation through Github Actions, PR triggers, etc..
 
