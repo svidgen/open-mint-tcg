@@ -34,11 +34,11 @@ Describe the tests that will be required for this RFC to be considered "Live".
 
 ## Implementation
 
-Nailing this is section down is not strictly required to move an RFC into an **Approved** state. However, enumerating the recommended breakdown of deliverables can help contributors invest their time wisely. If you're unable to create a better breakdown of work, use this one:
+Nailing this section down is not strictly required to move an RFC into an **Approved** state. However, enumerating the recommended breakdown of deliverables can help contributors invest their time wisely. If you're unable to create a better breakdown of work, use this one:
 
 1. Update [the spec](./spec/) to align with the RFC.
 2. Add functionality to [the library](packages/lib/)
-3. Updated [conformance tests](./packages/conformance-tests/)
+3. Update [conformance tests](./packages/conformance-tests/)
 4. Update the status to **Live** in the feature branch.
 
 ## Open Items
