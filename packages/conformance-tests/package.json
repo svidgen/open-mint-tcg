@@ -1,0 +1,11 @@
+{
+	"name": "@open-mint-tcg/conformance-tests",
+	"type": "module",
+	"version": "0.0.1",
+	"description": "Conformance tests for the Open Mint TCG spec and RFCs.",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": ["open-mint-tcg", "conformance", "tests", "rfc"],
+	"author": "",
+	"license": "MIT"
+}

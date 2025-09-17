@@ -1,0 +1,12 @@
+{
+	"name": "@open-mint-tcg/spec-tests",
+	"type": "module",
+	"version": "0.0.1",
+	"description": "Tests for the Open Mint TCG spec and RFCs.",
+	"scripts": {
+		"test": "node --test"
+	},
+	"keywords": ["open-mint-tcg", "spec", "tests", "rfc"],
+	"author": "",
+	"license": "MIT"
+}
